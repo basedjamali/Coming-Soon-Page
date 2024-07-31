@@ -110,7 +110,7 @@ form button:hover {
 @media only screen and (max-width: 768px) {
   body {
     overflow: visible;
-    background-image: url(/images/hero-desktop.jpg);
+    background-image: url(hero-desktop.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
